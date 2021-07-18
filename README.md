@@ -1,6 +1,6 @@
 # Preserve_Website-Where_your_memories_are_alive
 
-![Preserve](./client/public/preserve_web.jpeg)
+![Preserve](./client/public/preseve_web.png)
 
 ## Introduction
 

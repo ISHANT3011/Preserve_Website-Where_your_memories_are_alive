@@ -7,12 +7,12 @@
 The App is called "Preserve" and it is a simple app made to be used by the users to relive their memories, or important and precious moments of their life.
 
 # Getting Started
-To get started you can simply clone this `CourseHub` repository and install the dependencies.
+To get started you can simply clone this `Preserve_Website-Where_your_memories_are_alive` repository and install the dependencies.
 
 Clone the `Preserve_Website-Where_your_memories_are_alive` repository using git:
 
 ```
-git clone https://github.com/ThePrakharRajpali/CourseHub
+git clone https://github.com/ISHANT3011/Preserve_Website-Where_your_memories_are_alive.git
 
 cd Preserve_Website-Where_your_memories_are_alive
 ```
